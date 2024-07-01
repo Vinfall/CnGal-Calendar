@@ -2,6 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:CnGalCalendar
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240725
+DTEND;VALUE=DATE:20240726
+SUMMARY:夏日事件簿
+UID:5181
+DESCRIPTION:https://www.cngal.org/entries/index/5181\n一生只爱一个人的「纯爱」视觉小说。是一个你
+ 和青梅竹马妖怪少女结伴前行，互相拯救的故事。你们彼此陪伴，互相支持，从不怀疑对方，永远站在一起。你们共同经历着烦恼又欢乐的青春时光，你们把无与伦比的
+ 激情与暖流藏在互相揶揄的平淡日常里，你们守护着彼此，无论如何也不会分开。
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
+CATEGORIES:cngal
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240731
 DTEND;VALUE=DATE:20240801
 SUMMARY:毛绒天使疗愈人生
@@ -9,8 +21,8 @@ UID:5449
 DESCRIPTION:https://www.cngal.org/entries/index/5449\n一款疗愈心灵的恋爱模拟文字冒险游戏——“我
  ”是一个辛苦打工的社畜，在大城市中艰难生活着。突然有一天，一个女孩“从天而降”，我的人生从此变了个样：难过时有她安慰，泄气时有她加油。在与她相处的每
  一天中，感受她全心全意，不求回报的爱，探索人生的意义与灵魂的重量。
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -20,8 +32,8 @@ SUMMARY:马戏团之夜
 UID:253
 DESCRIPTION:https://www.cngal.org/entries/index/253\n《马戏团之夜》是一款横版2D的剧情向解谜游戏
  ，旨在讲述一场关于“爱与现实”的童话故事。
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -32,8 +44,8 @@ UID:5528
 DESCRIPTION:https://www.cngal.org/entries/index/5528\n《花恋月依》是由“一辈子百合”工作室制作，
  风域游戏发行的一款微悬疑百合虐心视觉小说。讲述了深爱彼此的情侣——白青兰和尹月，在分手多年后，重新追寻当初不为人知的真相始末……在命运的恶作剧下，两
  位少女相依相恋、在不幸的漩涡中搀扶前行的故事。
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +55,8 @@ SUMMARY:完美恋人~fragile love
 UID:5289
 DESCRIPTION:https://www.cngal.org/entries/index/5289\n这是一个关于承诺与救赎的故事。\n\n她们
  是儿时形影不离的玩伴，再见时却形同陌路...\n\n她们互看不顺眼，却又互相吸引，\n\n她们是水火不容的对头，又是天生一对的恋人...
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -57,8 +69,8 @@ DESCRIPTION:https://www.cngal.org/entries/index/4100\n成绩不好还调皮的�
  变她大摇大摆的迟到并且和号称校内最严厉有着‘教头’一称的教导主任针尖对麦芒，明明完全没有复习却能够考出极为优秀的成绩，在无聊的课程中一跃而起，改变了
  老师们的上课节奏，把别人一辈子想要在课堂上做的事情在短时间内做了个遍她依靠这份能力和梵逸站在了学校的同一个高度，但也因为这份能力而使得周围人们的生活
  出现了极大的变故，但随着时间的流逝，依露林才发现了使用这份能力的代价，并企图回到原来的世界去
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -67,8 +79,8 @@ DTEND;VALUE=DATE:20240901
 SUMMARY:Lost Seed
 UID:5089
 DESCRIPTION:https://www.cngal.org/entries/index/5089\n原创西幻百合AVG游戏！
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +91,8 @@ UID:205
 DESCRIPTION:https://www.cngal.org/entries/index/205\n《叛逆神魂》是个全动态立绘美少女养成、视觉刺
  激系RPG。你所在的学校近期发生了许多离奇事件，而校方却加强补课封闭信息。你将扮演主角，与执着游戏、绘画、编程等不同兴趣的“叛逆”少女们邂逅\,在最
  美的青春时光中\,你会与她们灵魂共鸣\,穿越异空\,对抗恶人灵魂\,寻找更多幻灵少女....让你的DNA动起来！
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -90,8 +102,8 @@ SUMMARY:硅心
 UID:3989
 DESCRIPTION:https://www.cngal.org/entries/index/3989\n突然到来的机器人少女，打破了某自由插画师的
  隐世单机生活，一场人机恋爱喜剧由此开幕。
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -103,8 +115,8 @@ DESCRIPTION:https://www.cngal.org/entries/index/5429\n你幸福吗？\n神明对
  只要成人前寻得凝结着自己幸福回忆的糖果，你就会平安无事。\n倘若没有一点幸福回忆，那么秋山学园对策委员会即刻出发。\n“但这次有点不同。”\n“如果
  三天后她没有找到属于她的那颗糖果，我们就陪她度过最后的时光吧。”\n但会长岚满从未想到，他需要解决的不仅是青梅竹马的问题，更是他周围的一切.....
  .\n如果不幸福的话，那就在虚假的梦中死去吧。\n拜托了，给我活下去的'爱'吧！
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -113,8 +125,8 @@ DTEND;VALUE=DATE:20241101
 SUMMARY:伯克利家的女仆：重制版
 UID:5412
 DESCRIPTION:https://www.cngal.org/entries/index/5412\n“过往的幽灵，叙述着凄惨的往事...”
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -126,8 +138,43 @@ DESCRIPTION:https://www.cngal.org/entries/index/4900\n“你听说过吗，有�
  号留下深刻遗憾的人，可能会被困在8月32号……”\n“永远与现实脱轨……”\n在白月高中的知名论坛“白月公园”上，一则怪谈帖子仅仅只花了几天时间，就
  火遍了整个校园。\n这个一眼假的帖子，却依旧成为了学生们茶余饭后的消遣，甚至被许多学生信以为真。不信鬼神的“现实派”高中生周腾，自然没有把帖子所描述
  的故事放在眼里。\n直到离奇的事情发生在了自己的身边……
-LAST-MODIFIED:20240630T041254Z
-DTSTAMP:20240630T041254Z
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
+CATEGORIES:cngal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:电器街的咖啡店
+UID:150
+DESCRIPTION:https://www.cngal.org/entries/index/150\n这是一款以女仆咖啡店为主题，融合了恋爱、冒险
+ 和经营要素的角色扮演游戏。 你临危受命，成为了一名新人店长。为了让咖啡店能够继续经营下去，你需要通过招募女仆、研发菜品、装扮店铺等方式来提升收入。 
+ 故事发生在电器街，你会在这里遇到很多有趣的人，随着关系增进，可以了解到更多他们的故事。
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
+CATEGORIES:cngal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:连海台球俱乐部
+UID:246
+DESCRIPTION:https://www.cngal.org/entries/index/246\n“连海台球俱乐部”是一款融合青春恋爱与台球休
+ 闲两种元素的游戏，讲述了孤独的男主角从一名放荡不羁的不良少年，在伙伴们的陪伴下逐渐成长为一颗闪耀的职业台球新星的故事。
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
+CATEGORIES:cngal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221231
+DTEND;VALUE=DATE:20230101
+SUMMARY:gaze ~我们在新闻部的日子~
+UID:3351
+DESCRIPTION:https://www.cngal.org/entries/index/3351\n以社团丰富著称的市北第一高中（北一高），一
+ 直以来有两个新闻社团：校学生会直属的宣传部，和学生自主运营的新闻部。两社的刊物一向各有特色，相互补足。  新学期到来，由于开支削减，学校仅打算保留宣
+ 传部作为唯一一个新闻社团。对于同时经历着预算危机与人员流失的新闻部来说，这可能就是最后的一年。\n发售日估算自 "预计2022年"
+LAST-MODIFIED:20240701T041333Z
+DTSTAMP:20240701T041333Z
 CATEGORIES:cngal
 END:VEVENT
 END:VCALENDAR
