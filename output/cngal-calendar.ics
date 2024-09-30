@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:CnGalCalendar
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240930
-DTEND;VALUE=DATE:20241001
-SUMMARY:毛绒天使疗愈人生
-UID:5449
-DESCRIPTION:https://www.cngal.org/entries/index/5449\n一款疗愈心灵的恋爱模拟文字冒险游戏——因为
- 童年创伤而浑浑噩噩，早已放弃了人生的“我”，遇见“从天而降”的女孩后，生活一下子变了样。在与她相处的每一天中，感受她不求回报的爱，让人生重回正轨，疗
- 愈内心的创伤，探索生命的意义与灵魂的重量。
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
-CATEGORIES:cngal
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241015
 DTEND;VALUE=DATE:20241016
 SUMMARY:恶魔鉴定守则
@@ -21,8 +9,8 @@ UID:4086
 DESCRIPTION:https://www.cngal.org/entries/index/4086\n没有记忆的你被扔进一个古怪空间参与一场游戏
  ，一同困在这里的三位女性将是你此行的同伴。三人都自称与你相识，且与你存在某种特殊关系，然而，若她们的自述属实，这三个人所处的世界之间显然毫无关联。\
  n你被秘密告知她们之中隐藏着一只恶魔……但是，你真的有可能找出它吗？
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -32,8 +20,8 @@ SUMMARY:皎月坠落之时
 UID:5358
 DESCRIPTION:https://www.cngal.org/entries/index/5358\n《皎月坠落之时》是一款惊悚剧情游戏，女主旁
  鹿在机缘巧合下接触了爱琳，在了解爱琳身份的途中遭遇诡异的神秘力量。她该如何应对，是选择陷入危机？还是全身而退？亦或是……
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -42,8 +30,8 @@ DTEND;VALUE=DATE:20241101
 SUMMARY:伯克利家的女仆：重制版
 UID:5412
 DESCRIPTION:https://www.cngal.org/entries/index/5412\n“过往的幽灵，叙述着凄惨的往事...”
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -53,8 +41,8 @@ SUMMARY:我与她们的大学画相
 UID:5605
 DESCRIPTION:https://www.cngal.org/entries/index/5605\n《我与她们的大学画相》是由月乃社制作的短篇
  galgame游戏，以两位女主的分支展开一场丰富轻松的大学故事，解决学生会和社团内部“过家家式”的矛盾，并在临近毕业做出自己的选择。
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +53,8 @@ UID:5676
 DESCRIPTION:https://www.cngal.org/entries/index/5676\n优尔·阿莱夫和妹妹安雅·阿莱夫在幼年时因病
  被父母抛弃，后被爱尔兰都柏林的一家酒馆的老板娘西尔莎收留。在一次出差过程中，优尔意外的邂逅了自己梦中来历不明的少女，后得知对方的名字叫做艾尔温。面对
  这个熟悉又陌生的少女，优尔和她踏上了收集手稿和解开过去真相的旅程。
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -76,8 +64,8 @@ SUMMARY:东北在逃青年
 UID:5584
 DESCRIPTION:https://www.cngal.org/entries/index/5584\n这是一个离家出走的男主与离家出走的女主在东
  北重逢并且相爱的故事。他们活得很狼狈，依旧互相扶持着走下去。
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 BEGIN:VEVENT
@@ -89,8 +77,8 @@ DESCRIPTION:https://www.cngal.org/entries/index/4900\n“你听说过吗，有�
  号留下深刻遗憾的人，可能会被困在8月32号……”\n“永远与现实脱轨……”\n在白月高中的知名论坛“白月公园”上，一则怪谈帖子仅仅只花了几天时间，就
  火遍了整个校园。\n这个一眼假的帖子，却依旧成为了学生们茶余饭后的消遣，甚至被许多学生信以为真。不信鬼神的“现实派”高中生周腾，自然没有把帖子所描述
  的故事放在眼里。\n直到离奇的事情发生在了自己的身边……
-LAST-MODIFIED:20240929T041456Z
-DTSTAMP:20240929T041456Z
+LAST-MODIFIED:20240930T041558Z
+DTSTAMP:20240930T041558Z
 CATEGORIES:cngal
 END:VEVENT
 END:VCALENDAR
